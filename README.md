@@ -6,7 +6,7 @@ A collection of userscripts for [Tampermonkey](https://www.tampermonkey.net/).
 
 | Script | Description |
 |--------|-------------|
-| [tradingview-thicker-bars](tradingview-thicker-bars/) | Keep OHLC bars visually thick when zoomed out on TradingView charts |
+| [tradingview-hlc-bar-enhancements](tradingview-hlc-bar-enhancements/) | Enhance HLC bars: adjustable thickness and StockCharts-style close ticks on both sides |
 
 ## Installation
 
